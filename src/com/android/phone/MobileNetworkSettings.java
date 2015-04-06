@@ -682,7 +682,6 @@ public class MobileNetworkSettings extends PreferenceActivity
                             log("handleGetPreferredNetworkTypeResponse: if 2: " +
                                     "modemNetworkMode != settingsNetworkMode");
                         }
-                        setPreferredNetworkSetting(modemNetworkMode);
                         settingsNetworkMode = modemNetworkMode;
 
                         if (DBG) { log("handleGetPreferredNetworkTypeResponse: if 2: " +
