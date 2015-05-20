@@ -150,9 +150,9 @@
   <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA bevorzugt</string>
   <string name="network_settings_sel_sub">SIM-Karten-Einstellungen</string>
   <string name="summary_manage_subscriptions">Netzwerkeinstellungen für jede SIM-Karte verwalten</string>
-  <string name="call_ind_services">Call Independent Services</string>
+  <string name="call_ind_services">Unabhängige Dienste aufrufen</string>
   <string name="callind_multi_sim">SIM-Karten-Einstellungen</string>
-  <string name="callind">Call Feature Settings</string>
+  <string name="callind">Anrufeinstellungen</string>
   <string name="sim_card_title">SIM-Karte %d</string>
   <string name="sim_card_summary_empty">SIM-Slot ist leer</string>
   <string name="tty_mode_not_allowed_vt_call">TTY-Moduswechsel ist während eines Video-Anrufes nicht erlaubt</string>
@@ -189,7 +189,7 @@
   <string name="exportAllcontatsSuccess">Alle SIM-Kontakt erfolgreich exportiert</string>
   <string name="exportAllcontatsFailed">Export aller SIM-Kontakte fehlgeschlagen</string>
   <string name="exportAllcontatsNoContacts">Keine Kontakte für SIM-Export gefunden</string>
-  <string name="cursorError"> Cursor is not having proper data !!! </string>
+  <string name="cursorError"> Ungültige Eingabe !!! </string>
   <string name="xdivert_title">X-Divert</string>
   <string name="xdivert_summary">CFNRc Einstellungen</string>
   <string name="uplmn_list_setting_title">Bevorzugte Netzwerke</string>
