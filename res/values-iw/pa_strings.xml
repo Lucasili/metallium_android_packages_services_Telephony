@@ -51,10 +51,10 @@
   <string name="label_cdp">סיסמת PIN ל-SIM החברה</string>
   <string name="label_spdp">סיסמת PIN ל-SIM ספק הרשת</string>
   <string name="label_sdp">סיסמת PIN ל-SIM</string>
-  <string name="label_rn1dp">RUIM network1 unlock PIN</string>
-  <string name="label_rn2dp">RUIM network2 unlock PIN</string>
-  <string name="label_rhrpd">RUIM hrpd unlock PIN</string>
-  <string name="label_rcdp">RUIM corporate unlock PIN</string>
+  <string name="label_rn1dp">קוד PIN לפתיחת רשת RUIM 1</string>
+  <string name="label_rn2dp">קוד PIN לפתיחת רשת RUIM 2</string>
+  <string name="label_rhrpd">קוד PIN לפתיחת RUIM hrpd</string>
+  <string name="label_rcdp">קוד PIN לפתיחת RUIM חברה</string>
   <string name="label_rspdp">RUIM service provider unlock PIN</string>
   <string name="label_rdp">RUIM unlock PIN</string>
   <string name="label_puk">הזן PUK</string>
