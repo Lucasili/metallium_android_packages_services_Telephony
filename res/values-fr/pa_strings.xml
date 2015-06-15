@@ -74,7 +74,7 @@
   <string name="nw_subset_unlock_failed">SIM Network Subset unlock request unsuccessful.</string>
   <string name="sp_unlock_failed">SIM Service Provider unlock request unsuccessful.</string>
   <string name="corporate_unlock_failed">SIM Corporate unlock request unsuccessful.</string>
-  <string name="sim_unlock_failed">SIM unlock request unsuccessful.</string>
+  <string name="sim_unlock_failed">La demande de déverrouillage de la carte SIM a échoué.</string>
   <string name="rnw1_unlock_failed">RUIM Network1 unlock request unsuccessful.</string>
   <string name="rnw2_unlock_failed">RUIM Network2 unlock request unsuccessful.</string>
   <string name="rhrpd_unlock_failed">RUIM Hrpd unlock request unsuccessful.</string>
@@ -112,6 +112,19 @@
     <item>Recomposer automatiquement</item>
     <item>Aucune recomposition</item>
   </string-array>
+  <string name="network_wcdma_only">@string/network_3G</string>
+  <string name="network_gsm_umts">@string/network_3G</string>
+  <string name="network_wcdma_pref">@string/network_3G</string>
+  <string name="network_gsm_only">@string/network_2G</string>
+  <string name="network_lte_gsm_wcdma">@string/network_lte</string>
+  <string name="network_lte_cdma">@string/network_lte</string>
+  <string name="network_lte_only">@string/network_lte</string>
+  <string name="network_lte_cdma_and_evdo">@string/network_lte</string>
+  <string name="network_cdma">@string/network_3G</string>
+  <string name="network_evdo_no_cdma">@string/network_3G</string>
+  <string name="network_3g_global">@string/network_3G</string>
+  <string name="network_cdma_no_evdo">@string/network_1x</string>
+  <string name="network_lte_cdma_evdo_gsm_wcdma">@string/network_global</string>
   <string name="preferred_network_mode_global_summary_cm">Preferred network mode: Global(CDMA/EVDO/LTE/GSM/WCDMA)</string>
   <string name="preferred_network_mode_td_scdma_only_summary">Preferred network mode: TD-SCDMA only</string>
   <string name="preferred_network_mode_td_scdma_wcdma_summary">Preferred network mode: TD-SCDMA / WCDMA</string>
