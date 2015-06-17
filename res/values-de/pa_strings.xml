@@ -112,7 +112,7 @@
     <item>Automatische Wahlwiederholung</item>
     <item>Keine Wahlwiederholung</item>
   </string-array>
-  <string name="network_wcdma_only">@string/network_3G</string>
+  <string name="network_wcdma_only">3G</string>
   <string name="network_gsm_umts">@string/network_3G</string>
   <string name="network_wcdma_pref">@string/network_3G</string>
   <string name="network_gsm_only">@string/network_2G</string>
