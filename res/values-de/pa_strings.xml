@@ -113,18 +113,18 @@
     <item>Keine Wahlwiederholung</item>
   </string-array>
   <string name="network_wcdma_only">3G</string>
-  <string name="network_gsm_umts">@string/network_3G</string>
-  <string name="network_wcdma_pref">@string/network_3G</string>
-  <string name="network_gsm_only">@string/network_2G</string>
-  <string name="network_lte_gsm_wcdma">@string/network_lte</string>
-  <string name="network_lte_cdma">@string/network_lte</string>
-  <string name="network_lte_only">@string/network_lte</string>
-  <string name="network_lte_cdma_and_evdo">@string/network_lte</string>
-  <string name="network_cdma">@string/network_3G</string>
-  <string name="network_evdo_no_cdma">@string/network_3G</string>
-  <string name="network_3g_global">@string/network_3G</string>
-  <string name="network_cdma_no_evdo">@string/network_1x</string>
-  <string name="network_lte_cdma_evdo_gsm_wcdma">@string/network_global</string>
+  <string name="network_gsm_umts">3G</string>
+  <string name="network_wcdma_pref">3G</string>
+  <string name="network_gsm_only">2G</string>
+  <string name="network_lte_gsm_wcdma">LTE</string>
+  <string name="network_lte_cdma">LTE</string>
+  <string name="network_lte_only">LTE</string>
+  <string name="network_lte_cdma_and_evdo">LTE</string>
+  <string name="network_cdma">3G</string>
+  <string name="network_evdo_no_cdma">3G</string>
+  <string name="network_3g_global">3G</string>
+  <string name="network_cdma_no_evdo">1</string>
+  <string name="network_lte_cdma_evdo_gsm_wcdma">Global</string>
   <string name="preferred_network_mode_global_summary_cm">Bevorzugter Netzwerkmodus: Global (CDMA/EvDo/LTE/GSM/WCDMA)</string>
   <string name="preferred_network_mode_td_scdma_only_summary">Bevorzugter Netzmodus: TD-SCDMA</string>
   <string name="preferred_network_mode_td_scdma_wcdma_summary">Bevorzugter Netzmodus: TD-SCDMA/WCDMA</string>
